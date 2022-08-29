@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "com.microsoft.altspacevr_uploader": {
-      "version": "file:C:/Users/Alexander/Downloads/com.microsoft.altspacevr_uploader-2.2.29.tgz",
+      "version": "file:C:/Users/user/Downloads/com.microsoft.altspacevr_uploader-2.2.29.tgz",
       "depth": 0,
       "source": "local-tarball",
       "dependencies": {
